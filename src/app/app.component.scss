@@ -1,0 +1,22 @@
+.container {
+	height: 80vh;
+
+	.images {
+		display: flex;
+		align-items: center;
+		justify-content: space-around;
+		height: 100%;
+		
+		img {
+			padding: 10px;
+		}
+	}	
+}
+
+.header {
+	background: #0c9cf5; 
+	text-align: center;
+	color: #fff;
+	margin: 0;
+	padding: 10px;
+}

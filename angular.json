@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sameSizeImage"
+    }
+  },
+  "defaultProject": "sameSizeImage",
+  "cli": {
+    "analytics": "51ff1e57-2e02-45cd-87f3-87cc0c91181d"
+  }
 }
